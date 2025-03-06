@@ -1,4 +1,3 @@
-Here’s the optimized English version of your `file.md`:
 
 ```markdown
 # VirusTotal Checker Utility
@@ -10,7 +9,7 @@ You can refer to the documentation at [VirusTotal Python API](https://github.com
 ## Instructions:
 
 1. **Install the required package:**
-   ```bash
+   '''bash 
    pip install vt-py
    ```
 
